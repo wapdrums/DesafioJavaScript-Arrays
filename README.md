@@ -1,6 +1,4 @@
-# Dia 04 - Array Parte 01
-
-* [Link para o desafio](https://lizvidotti91.github.io/desafio-30-dias-js/Dia%204/index.html); 
+# Desafios JavaScript - Arrays
 
 ## Tecnologias Usadas
 
